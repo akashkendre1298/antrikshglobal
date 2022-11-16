@@ -1,0 +1,7 @@
+.service-div {
+  width: 76em;
+}
+.main-div-for-servicepage {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,18 @@
+.card-title {
+  font-family: 'Poppins', Sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+}
+.desc-for-card {
+  font-family: 'Poppins', Sans-serif;
+  font-size: 22px;
+  color: inherit;
+  letter-spacing: 1px;
+  margin: 20px 0;
+}
+.card-for-service:hover {
+  box-shadow: 0px 1px 10px 1px rgb(163, 161, 161);
+  background: #e8f9fa;
+  border: 1px solid rgba(255, 251, 251, 0.998);
+  transition: 0.3s ease;
+}
